@@ -1,0 +1,12 @@
+[07-May-2021 17:52:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstalliondev/admin-austin.designstalliondev.com/AdminAdd/app/Console/Commands/DailyUpdateFinance.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstalliondev/admin-austin.designstalliondev.com/AdminAdd/app/Console/Commands/DailyUpdateFinance.php on line 14
+[07-May-2021 17:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstalliondev/admin-austin.designstalliondev.com/AdminAdd/app/Console/Commands/DailyUpdateFinance.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstalliondev/admin-austin.designstalliondev.com/AdminAdd/app/Console/Commands/DailyUpdateFinance.php on line 14
+[07-May-2021 17:54:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/dstalliondev/admin-austin.designstalliondev.com/AdminAdd/app/Console/Commands/DailyUpdateFinance.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dstalliondev/admin-austin.designstalliondev.com/AdminAdd/app/Console/Commands/DailyUpdateFinance.php on line 14
